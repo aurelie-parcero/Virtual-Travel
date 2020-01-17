@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feeda49e-82cc-4818-ac8d-d8354c3d835d" name="Default Changelist" comment="" />
+    <list default="true" id="feeda49e-82cc-4818-ac8d-d8354c3d835d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/newsMatthias.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V9Do9xKHxGg4C2V2HG3BAcB3PH" />
   <component name="ProjectViewState">
@@ -15,9 +28,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Utilisateur\Documents\GitHub\Virtual-Travel" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -43,6 +62,7 @@
       <updated>1576656589667</updated>
       <workItem from="1576656590870" duration="11045000" />
       <workItem from="1576675803846" duration="127000" />
+      <workItem from="1579266982173" duration="1337000" />
     </task>
     <servers />
   </component>
@@ -50,9 +70,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579267076663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579267076663" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1576674976677">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576674976677" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1579267499117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579267499117" />
   </component>
 </project>
