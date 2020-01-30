@@ -50,7 +50,7 @@ body {
 /*Fin Header*/
 
 /*Début Contenu commun pages*/
-h1{ line-height: 250px}
+h1{ line-height: 250px
 }
 
 h1, h2, h3, h4{
@@ -157,7 +157,8 @@ nav a{
 /*fin page equipe*/
 
 /*Début page contact*/
-.formule_contact {
+form {
+    text-align: center;
     border-radius: 1%;
     box-shadow: 1px 1px 5px black;
     padding: 20px;
@@ -167,14 +168,24 @@ nav a{
     width: 50%;
     margin:auto;
 }
+
+.error_form {
+    text-align: center;
+    background-color: red;
+}
+
+.validate_form{
+    text-align: center;
+    background-color: green;
+}
+label{
+    font-family: bebas-neue, sans-serif;
+    font-size: 25px;
+}
 .contact{
     padding:40px 0px;
 }
-legend{
-    font-family: bebas-neue, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
+
 /*Fin page Contact*/
 
 
@@ -432,7 +443,7 @@ legend{
 
 p {
     font-family: "Simple Print";
-    font-size: 30px;
+    font-size: 20px;
 }
 
 /* fin fonts contenue */
